@@ -1,0 +1,15 @@
+{
+  "name": "modC",
+  "version": "1.0.0",
+  "description": "Module C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "modA": "git://github.com/adamar/modA#master"
+  },
+
+  "author": "",
+  "license": "ISC"
+}
